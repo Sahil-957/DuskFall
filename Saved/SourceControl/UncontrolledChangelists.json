@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/SAHIL/OneDrive/Documents/Unreal Projects/Test/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/SAHIL/OneDrive/Documents/Unreal Projects/Test/Content/ProjectFiles/88yrcjq4775s-M4A4/m4a1.uasset",
+				"C:/Users/SAHIL/OneDrive/Documents/Unreal Projects/Test/Content/ProjectFiles/88yrcjq4775s-M4A4/rif_m4a1.uasset",
+				"C:/Users/SAHIL/OneDrive/Documents/Unreal Projects/Test/Content/ProjectFiles/88yrcjq4775s-M4A4/Screenshot_1.uasset",
+				"C:/Users/SAHIL/OneDrive/Documents/Unreal Projects/Test/Content/Blueprints/GunPickup/BP_GunPickup.uasset",
+				"C:/Users/SAHIL/OneDrive/Documents/Unreal Projects/Test/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/SAHIL/OneDrive/Documents/Unreal Projects/Test/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/Users/SAHIL/OneDrive/Documents/Unreal Projects/Test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/8R/0PJY5ZS5L55IYOTGOIUGBC.uasset"
+			]
+		}
+	]
+}

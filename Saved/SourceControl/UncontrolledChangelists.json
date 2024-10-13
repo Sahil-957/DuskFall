@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Games/DUSKFALL/Test/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Games/DUSKFALL/Test/Content/Characters/Mannequin_UE4/Animations/Rifle_Run.uasset",
 				"C:/Games/DUSKFALL/Test/Content/Characters/Swat/Soldier_body1.uasset",
@@ -65,6 +66,15 @@
 				"C:/Users/SAHIL/OneDrive/Documents/Unreal Projects/Test/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/SAHIL/OneDrive/Documents/Unreal Projects/Test/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
 				"C:/Users/SAHIL/OneDrive/Documents/Unreal Projects/Test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/8R/0PJY5ZS5L55IYOTGOIUGBC.uasset"
+=======
+				"E:/DuskFall 2.0/DuskFall/Content/Blueprints/GunPickup/BP_Items.uasset",
+				"E:/DuskFall 2.0/DuskFall/Content/Blueprints/GunPickup/BP_GunPickup.uasset",
+				"E:/DuskFall 2.0/DuskFall/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/8R/0PJY5ZS5L55IYOTGOIUGBC.uasset",
+				"E:/DuskFall 2.0/DuskFall/Content/Blueprints/GunPickup/Gun_Pickup.uasset",
+				"E:/DuskFall 2.0/DuskFall/Content/Blueprints/GunPickup/BPI_Items.uasset",
+				"E:/DuskFall 2.0/DuskFall/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/DuskFall 2.0/DuskFall/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/2F/G5ASQK3GJ6T9P15DWG6P9R.uasset"
+>>>>>>> 4dd6cf064bc909101a9ca066a6143c9af533d55d
 			]
 		}
 	]
